@@ -1,0 +1,68 @@
+2d48eff42ce1e2644cbc352cb67a7fa61010000011<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <datainfo>
+    <caseid>1201700010011684084</caseid>
+    <name>张广梅</name>
+    <sex>1</sex>
+    <senderid>U1015709</senderid>
+    <sendername>芝罘区89000民生服务中心(k201606020859)</sendername>
+    <checktime>2017-12-18 11:57:12</checktime>
+    <createtime>2017-12-18 11:57:18</createtime>
+    <casetype>1</casetype>
+    <casetypename>智能体检机</casetypename>
+    <deviceid>JM1601301994</deviceid>
+    <devicename>HMS6500-2.1.2</devicename>
+    <size>132521</size>
+    <path>file://case/3/2017/12/case/U1015709/1201700010011684084-U1015709</path>
+    <otherparams>
+	<otherparams>
+	<card></card>
+	<pid>370226197211151563</pid>
+	<phone></phone>
+	<caseName>张广梅</caseName>
+	<age>45</age>
+	<sex>1</sex>
+	<caseAddr>山东省烟台市芝罘区通世里59号4单元11号</caseAddr>
+	<cid>k201606020859</cid>
+	<apparatus>智能体检机</apparatus>
+	<language>chinese</language>
+	<appnum>JM1601301994</appnum>
+	<commentfreq>500</commentfreq>
+	<scale>820</scale>
+	<heartrate>100</heartrate>
+	<spo2>99</spo2>
+	<weight>60.0</weight>
+	<height>162.0</height>
+	<sys>127</sys>
+	<mean>86</mean>
+	<dia>76</dia>
+	<pulserate>73</pulserate>
+	<checktime>2017-12-18 11:57:12</checktime>
+	</otherparams>
+</otherparams>
+    <reports>
+      <report>
+        <reportid>2201700010010777298</reportid>
+        <reportpath>file://report/3/2017/12/report/D1001281/2201700010010777298-D1001281</reportpath>
+        <reportsize>1479144</reportsize>
+        <daccount>D1001281</daccount>
+        <dname>中福网医生</dname>
+        <dcreatetime>2017-12-18 11:59:16</dcreatetime>
+        <diagnostic><diagnosis><title>HM Report</title><content>总心搏61个,正常心搏 49个,房早12个,室早0个.
+</content><labeltype>1</labeltype><p><n>Name</n><v>张广梅</v></p><p><n>Sex</n><v>女</v></p><p><n>Age</n><v>45</v></p><p><n>Birthday</n><v></v></p><p><n>Addr</n><v></v></p><p><n>Mobile</n><v></v></p><p><n>Pid</n><v>370226197211151563</v></p><p><n>Caseid</n><v>1201700010011684084</v></p><p><n>Checktime</n><v>2017-12-18 11:57:12</v></p><p><n>PR_Int</n><v>--</v></p><p><n>P/QRS/T_Dur</n><v>--/80/199</v></p><p><n>QT/QTC_Int</n><v>358/454</v></p><p><n>P/QRS/T_Axis</n><v>--/62.0/22.6</v></p><p><n>RV5/SV1</n><v>--/1.02</v></p><p><n>HR</n><v>97</v></p><p><n>Spo2</n><v>99</v></p><p><n>Temp</n><v></v></p><p><n>Height</n><v>162.0</v></p><p><n>Weight</n><v>60.0</v></p><p><n>BMI</n><v>22.8(正常)</v></p><p><n>Bloodsugar</n><v></v></p><p><n>Mean</n><v>76/86/127</v></p><p><n>Type</n><v>12</v></p><p><n>Diagnosis_01</n><v>正常</v></p><p><n>Diagnosis_02</n><v>正常</v></p><p><n>Diagnosis_03</n><v>正常</v></p><p><n>Diagnosis_04</n><v>正常</v></p><p><n>Diagnosis_05</n><v>正常</v></p><p><n>Diagnosis_06</n><v>总心搏61个,正常心搏 49个,房早12个,室早0个.
+</v></p><p><n>Diagnosis_07</n><v>正常</v></p><p><n>CriticalValues</n><v></v></p></diagnosis></diagnostic>
+      </report>
+      <report>
+        <reportid>2201700010010809704</reportid>
+        <reportpath>file://report/3/2018/01/report/D1001281/2201700010010809704-D1001281</reportpath>
+        <reportsize>666931</reportsize>
+        <daccount>D1001281</daccount>
+        <dname>中福网医生</dname>
+        <dcreatetime>2018-01-05 14:33:46</dcreatetime>
+        <diagnostic><diagnosis><title>HM Report</title><content>总心搏61个,正常心搏 49个,房早12个,室早0个.
+</content><labeltype>1</labeltype><p><n>Name</n><v>张广梅</v></p><p><n>Sex</n><v>女</v></p><p><n>Age</n><v>45</v></p><p><n>Birthday</n><v></v></p><p><n>Addr</n><v></v></p><p><n>Mobile</n><v></v></p><p><n>Pid</n><v>370226197211151563</v></p><p><n>Caseid</n><v>1201700010011684084</v></p><p><n>Checktime</n><v>2017-12-18 11:57:12</v></p><p><n>PR_Int</n><v>--</v></p><p><n>P/QRS/T_Dur</n><v>--/80/199</v></p><p><n>QT/QTC_Int</n><v>358/454</v></p><p><n>P/QRS/T_Axis</n><v>--/62.0/22.6</v></p><p><n>RV5/SV1</n><v>--/1.02</v></p><p><n>HR</n><v>97</v></p><p><n>Spo2</n><v>99</v></p><p><n>Temp</n><v></v></p><p><n>Height</n><v>162.0</v></p><p><n>Weight</n><v>60.0</v></p><p><n>BMI</n><v>22.8(正常)</v></p><p><n>Bloodsugar</n><v></v></p><p><n>Mean</n><v>76/86/127</v></p><p><n>Type</n><v>12</v></p><p><n>Diagnosis_01</n><v>正常</v></p><p><n>Diagnosis_02</n><v>正常</v></p><p><n>Diagnosis_03</n><v>正常</v></p><p><n>Diagnosis_04</n><v>正常</v></p><p><n>Diagnosis_05</n><v>正常</v></p><p><n>Diagnosis_06</n><v>总心搏61个,正常心搏 49个,房早12个,室早0个.
+</v></p><p><n>Diagnosis_07</n><v>正常</v></p><p><n>CriticalValues</n><v></v></p></diagnosis></diagnostic>
+      </report>
+    </reports>
+  </datainfo>
+</response>
